@@ -56,4 +56,4 @@ def test_fluxo_basico(page: Page):
         name="Trace viewer"
     )
 
-    expect(titulo).to_be_visible()
+    expect(titulo).to_be_visible() TESTETESTETESTE
